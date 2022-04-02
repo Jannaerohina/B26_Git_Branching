@@ -5,6 +5,10 @@ public class TC_002 {
 
         // test case 2
 
-        //writing smoke tests
+        // writing smoke tests
+
+        // creating a report
+
+        //screenshot failure
     }
 }
